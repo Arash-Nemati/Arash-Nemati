@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 سلام، من آرش نعمتی هستم  
 
-<!--
-**Arash-Nemati/Arash-Nemati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 متخصص امنیت شبکه و اطلاعات | Blue Team  
 
-Here are some ideas to get you started:
+## 🚀 درباره من
+- بیش از ۶ سال تجربه در حوزه امنیت اطلاعات و شبکه  
+- تمرکز روی Hardening، مانیتورینگ شبکه، و مدیریت آسیب‌پذیری‌ها  
+- علاقه‌مند به SOC، تحلیل تهدیدات و امنیت زیرساخت  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 مهارت‌ها
+- **امنیت و مانیتورینگ:** Zeek، Suricata، OpenVAS  
+- **شبکه:** FortiGate، VLAN، VPN، NAT  
+- **سیستم عامل‌ها:** لینوکس (Debian/Ubuntu)، ویندوز سرور/ویندوز ۱۱  
+- **مجازی‌سازی:** VMware ESXi  
+
+## 📌 پروژه‌ها
+- CIS-Windows11-Hardening  
+- Zeek-on-ESXi-Ubuntu  
+- OpenVAS-from-Zero  
+
+## 📫 راه‌های ارتباطی
+- [YouTube (BugNet-Tech)](https://youtube.com/@BugNet-Tech)  
+- [GitHub](https://github.com/Arash-Nemati)  
+- ایمیل: your.name@example.com  
